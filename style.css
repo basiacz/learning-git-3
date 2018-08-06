@@ -1,0 +1,15 @@
+body {
+	font-family: 'Quicksand'; 
+	margin: 0; 
+	background: rgb(173,216,230);
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto; 
+}
+
+p {
+	padding: 10px;
+}
